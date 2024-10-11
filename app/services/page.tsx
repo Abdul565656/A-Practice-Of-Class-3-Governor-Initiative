@@ -26,7 +26,7 @@ const page = () => {
           </div>
           <div className="bg-white p-6 rounded-lg shadow-md transform transition duration-500 hover:scale-105 hover:shadow-xl animate-fade-in">
             <h3 className="text-2xl font-semibold text-gray-800 mb-4">SEO Optimization</h3>
-            <p className="text-gray-600">Improve your website's visibility in search engines and drive organic traffic.</p>
+            <p className="text-gray-600">Improve your website&apos;s visibility in search engines and drive organic traffic.</p>
           </div>
           <div className="bg-white p-6 rounded-lg shadow-md transform transition duration-500 hover:scale-105 hover:shadow-xl animate-fade-in">
             <h3 className="text-2xl font-semibold text-gray-800 mb-4">Maintenance & Support</h3>

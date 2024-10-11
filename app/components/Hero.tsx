@@ -1,5 +1,6 @@
 import React from 'react'
 import Link from 'next/link'
+import Image from 'next/image'
 
 const Hero = () => {
   return (
@@ -21,7 +22,7 @@ const Hero = () => {
             </Link>
           </div>
           <div className="md:w-1/2 flex justify-center">
-            <img
+            <Image
               src="/images/Untitled design.png"
               alt="Abdullah Kashif - Web Developer"
               className="w-72 rounded-lg shadow-xl animate-float transition-all duration-1000 ease-in-out hover:scale-110 hover:rotate-3 hover:shadow-2xl"
