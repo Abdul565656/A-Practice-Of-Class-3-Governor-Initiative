@@ -9,14 +9,14 @@ const Hero = () => {
         <div className="flex flex-col md:flex-row items-center">
           <div className="md:w-1/2 mb-8 md:mb-0 transform transition-all duration-1000 ease-in-out hover:translate-x-4">
             <h1 className="text-4xl md:text-5xl font-bold text-gray-800 mb-4 animate-fade-in-down">
-              Hi, I'm Abdullah Kashif
+              Hi&lsquo; I &apos; m Abdullah Kashif
             </h1>
             <p className="text-xl text-gray-600 mb-6 animate-fade-in-up delay-300">
               A passionate web developer eager to explore technologies and with a strong interest in content creation.
             </p>
             <Link href="/services">
               <button className="bg-blue-600 text-white font-semibold py-3 px-6 rounded-lg hover:bg-blue-700 transition duration-300 transform hover:scale-105 animate-pulse">
-                Here's What You're Looking For
+                Here &apos; s What You &apos; re Looking For
               </button>
             </Link>
           </div>

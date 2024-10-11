@@ -10,7 +10,7 @@ const page = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           <div className="bg-white p-6 rounded-lg shadow-md transform transition duration-500 hover:scale-105 hover:shadow-xl animate-fade-in">
             <h3 className="text-2xl font-semibold text-gray-800 mb-4">Web Development</h3>
-            <p className="text-gray-600">Custom web applications tailored to your business needs, built with the latest technologies.</p>
+            <p className="text-gray-600">Custom web applications tailored to your business needs&lsquo; built with the latest technologies.</p>
           </div>
           <div className="bg-white p-6 rounded-lg shadow-md transform transition duration-500 hover:scale-105 hover:shadow-xl animate-fade-in">
             <h3 className="text-2xl font-semibold text-gray-800 mb-4">UI/UX Design</h3>

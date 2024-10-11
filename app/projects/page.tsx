@@ -25,7 +25,7 @@ const projects = () => {
           <div className="bg-white rounded-lg shadow-xl overflow-hidden transform transition duration-500 hover:scale-105">
             <div className="p-6">
               <h3 className="text-2xl font-semibold text-gray-800 mb-3">CocaCola Project</h3>
-              <p className="text-gray-600 mb-4">Develop a mobile app that offers a personalized and engaging experience for Coca-Cola enthusiasts, utilizing cutting-edge features and technologies.</p>
+              <p className="text-gray-600 mb-4">Develop a mobile app that offers a personalized and engaging experience for Coca-Cola enthusiasts&lsquo; utilizing cutting-edge features and technologies.</p>
               <div className="flex flex-wrap gap-2 mb-4">
                 <span className="px-3 py-1 bg-blue-100 text-blue-800 rounded-full text-sm">Html</span>
                 <span className="px-3 py-1 bg-yellow-100 text-yellow-800 rounded-full text-sm">Css</span>
@@ -38,7 +38,7 @@ const projects = () => {
           <div className="bg-white rounded-lg shadow-xl overflow-hidden transform transition duration-500 hover:scale-105">
             <div className="p-6">
               <h3 className="text-2xl font-semibold text-gray-800 mb-3">Weather Forecast Dashboard</h3>
-              <p className="text-gray-600 mb-4">Develop a mobile app that provides accurate and up-to-date weather information to users, tailored to their specific location.</p>
+              <p className="text-gray-600 mb-4">Develop a mobile app that provides accurate and up-to-date weather information to users&lsquo; tailored to their specific location.</p>
               <div className="flex flex-wrap gap-2 mb-4">
                 <span className="px-3 py-1 bg-blue-100 text-blue-800 rounded-full text-sm">React</span>
                 <span className="px-3 py-1 bg-green-100 text-green-800 rounded-full text-sm">OpenWeatherMap API</span>
@@ -54,11 +54,11 @@ const projects = () => {
       <div className="container mx-auto px-4">
         <h3 className="text-3xl font-bold text-center text-gray-800 mb-8">More Projects Coming Soon!</h3>
         <p className="text-center text-gray-600 max-w-2xl mx-auto">
-          I'm constantly working on new and exciting projects. Check back often to see what's new, or get in touch if you'd like to collaborate on something amazing!
+          I&apos;m constantly working on new and exciting projects. Check back often to see what&apos;s new&lsquo; or get in touch if you&apos;d like to collaborate on something amazing!
         </p>
         <div className="text-center mt-8">
           <a href="/contactus" className="inline-block bg-indigo-600 text-white font-semibold py-3 px-6 rounded-lg hover:bg-indigo-700 transition duration-300 transform hover:scale-105">
-            Let's Work Together
+            Let&apos;s Work Together
           </a>
         </div>
       </div>

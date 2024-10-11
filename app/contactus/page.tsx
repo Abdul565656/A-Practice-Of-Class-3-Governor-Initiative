@@ -5,7 +5,7 @@ const Contact = () => {
     <div>
     <section className="bg-gradient-to-r from-indigo-600 to-purple-700 py-24">
       <div className="container mx-auto px-4">
-        <h2 className="text-5xl font-bold text-center text-white mb-12">Let's Connect</h2>
+        <h2 className="text-5xl font-bold text-center text-white mb-12">Let&apos;s Connect</h2>
         <div className="bg-white rounded-2xl shadow-2xl p-10 max-w-4xl mx-auto">
           <form className="space-y-8">
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
